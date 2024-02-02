@@ -7,7 +7,7 @@
 
 :root {
     --color-primary: #191d2b;
-    --color-secondary: #27AE60;
+    --color-secondary:  #FF3C82;
     --color-white: #FFFFFF;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -298,12 +298,12 @@ section {
                         transition: all .4s ease-in-out;
                         width: 60%;
                     }
-                    .html { width: 80%; }
+                    .html { width: 95%; }
                     .css { width: 95%; }
                     .js { width: 75%; }
                     .react{ width: 60%; }
-                    .node{ width: 87%; }
-                    .python{ width: 70%; }
+                    .bootstrap{ width: 87%; }
+                    .sass{ width: 70%; }
                 }
             }
         }
